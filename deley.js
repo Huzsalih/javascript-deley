@@ -9,6 +9,4 @@ async function delayedHelloWorld() {
     await delay(2000); // Wait for 2 seconds
     console.log("World");
 }
-
-
 delayedHelloWorld();
