@@ -10,5 +10,5 @@ async function delayedHelloWorld() {
     console.log("World");
 }
 
-// Call the async function
+
 delayedHelloWorld();
